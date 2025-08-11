@@ -8,7 +8,7 @@ import { Navigation, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import "./swiperStyles.css";
+import "./swiperstyles.css";
 
 const SecondCarousel = ({ images, location, judul }) => {
   return (
