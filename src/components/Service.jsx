@@ -27,7 +27,7 @@ const services = [
 
 const Service = () => {
   return (
-    <div className="flex flex-col items-center justify-center px-5 md:px-10 lg:px-40">
+    <div className="flex flex-col items-center justify-center px-5 md:px-10 lg:px-40" id="services">
       {/* Judul */}
       <h1 className="font-raleway font-bold text-center my-5 text-lg ">
         OUR CORE VALUE WILL BE DELIVERED IN A FORM OF

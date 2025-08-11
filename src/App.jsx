@@ -34,7 +34,7 @@ function App() {
               <div className="overflow-hidden">
                 <Navbar />
                 <Home />
-                <div className=" m-4  font-semibold font-raleway text-center">
+                <div className=" m-4  font-semibold font-raleway text-center" id='about'>
                   Expert Contractor for:
                 </div>
                 <div className="flex justify-center items-center w-screen flex-col">
